@@ -1,4 +1,4 @@
-# GPT-2 Fine-Tuning on a Car Mechanic Corpus
+# GPT-2 Fine-Tuning on a Car Mechanic Corpus 🔧
 
 Fine-tuning a pre-trained GPT-2 model on a custom domain corpus, built as a course assignment for the Python for AI and LLMs programme at CINEL.
 
